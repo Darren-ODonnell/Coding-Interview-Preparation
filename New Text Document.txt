@@ -1,0 +1,5 @@
+CMD Command - jest -> 		  	    runs all tests in repository
+
+CMD Command - jest fib/test.js --watch ->   runs the test inside the fib folder
+
+
